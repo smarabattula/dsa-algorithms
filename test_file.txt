@@ -1,0 +1,35 @@
+ 99.99	48911649	48911649	U	0	unclassified
+  0.01	2591	0	R	1	root
+  0.01	2591	6	D	10239	  Viruses
+  0.00	1807	0	D1	2731341	    Duplodnaviria
+  0.00	1807	0	K	2731360	      Heunggongvirae
+  0.00	1798	0	P	2731618	        Uroviricota
+  0.00	1798	152	C	2731619	          Caudoviricetes
+  0.00	112	0	F	2842327	            Rountreeviridae
+  0.00	112	0	F1	2732588	              Rakietenvirinae
+  0.00	111	0	G	2732589	                Andhravirus
+  0.00	111	0	S	2732591	                  Andhravirus andhra
+  0.00	111	111	S1	1958907	                    Staphylococcus phage Andhra
+  0.00	1	0	G	680287	                Rosenblumvirus
+  0.00	1	0	S	2732597	                  Rosenblumvirus CSA13
+  0.00	1	1	S1	2108359	                    Staphylococcus phage CSA13
+  0.00	105	51	F	2946167	            Peduoviridae
+  0.00	17	17	G	1196844	              Hpunavirus
+  0.00	9	0	G	2948942	              Valbvirus
+  0.00	9	0	S	2956629	                Valbvirus ValB1MD2
+  0.00	9	9	S1	2759177	                  Vibrio phage ValB1MD-2
+  0.00	7	7	G	2733083	              Tigrvirus
+  0.00	6	0	G	2732986	              Phitrevirus
+  0.00	6	0	S	2734069	                Phitrevirus phi3
+  0.00	6	6	S1	1754217	                  Pseudomonas phage phi3
+  0.00	3	0	F1	2960950	              unclassified Peduoviridae
+  0.00	2	2	S	2866684	                Shewanella phage vB_SspM_M16-3
+  0.00	1	1	S	2894367	                Aeromonas phage vB_AsaM_LPM4
+  0.00	3	0	G	2732972	              Aresaunavirus
+  0.00	2	0	S	2079257	                Aresaunavirus RsoM1USA
+  0.00	2	2	S1	2991867	                  Ralstonia phage RsoM1USA
+  0.00	1	0	S	406340	                Aresaunavirus RSA1
+  0.00	1	1	S1	2993856	                  Ralstonia phage RSA1
+  0.00	3	0	G	2948724	              Gemsvirus
+  0.00	3	0	S	2955946	                Gemsvirus gv5004652
+  0.00	3	3	S1	2716352	                  Escherichia phage 500465-2	
