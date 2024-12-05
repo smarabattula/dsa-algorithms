@@ -1,2 +1,4 @@
 # dsa-algorithms
-Data Structures and Algorithms practice
+DSA practice notebooks
+LLD practice
+
